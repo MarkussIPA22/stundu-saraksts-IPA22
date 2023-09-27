@@ -12,6 +12,7 @@ function App() {
     <Diena nosaukums = "Tresdiena"/>
     <Diena nosaukums = "Ceturdiena"/>
     <Diena nosaukums = "Piektdiena"/>
+    <Diena nosaukums = "sestdiena"/>
     </>
 );
 }
