@@ -1,10 +1,9 @@
-import Diena from "./Diena";
-
-function Stunda (props) {
-    return   <li> {props.nosaukums} </li> ;
-    
-    }
-    ;
-
-    export default Stunda;
-    
+function Stunda(props){
+    const stundas = []
+    return(
+<>
+<li>{props.nosaukums}</li>
+</>
+    )
+}
+export default Stunda;
