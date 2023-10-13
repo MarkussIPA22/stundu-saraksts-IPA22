@@ -1,3 +1,4 @@
+import style from "./Janis.module.css";
 function Stunda(props){
     const stundas = []
     return(

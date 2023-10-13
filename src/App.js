@@ -1,4 +1,5 @@
 import Diena from './Diena';
+import Styles from './Janis.module.css'
 
 function App(props){
   const PirmdienasStundas = [
